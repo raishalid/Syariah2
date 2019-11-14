@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Syariah</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Syariah Niaga Perumahan</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Propertiku</string>
+    <string name="menu_slideshow">Status</string>
+    <string name="menu_tools">Fitur</string>
+    <string name="menu_share">Dokumen</string>
+    <string name="menu_send">Pengembang</string>
+    <string name="title_activity_login">login</string>
+    <string name="login_email">Google Email :</string>
+    <string name="login_hintemail">masukkan email ex johndoe@gmail.com</string>
+    <string name="login_password">Password :</string>
+    <string name="login_passhint">masukkan password anda</string>
+    <string name="logodescription">Logo</string>
+    <string name="login_buttontexxt">Login</string>
+    <string name="register_buttontext">Register</string>
+    <string name="minimum_password">Password harus lebih dari 6 karakter</string>
+    <string name="auth_failed">Password Tidak Sesuai</string>
+    <string name="title_activity_register">register</string>
+    <string name="register_judul">Form Pendaftaran User Properti</string>
+    <string name="app_tema">Syariah Niaga Properti</string>
+    <string name="register_email">Email (gmail) :</string>
+    <string name="register_nama">Masukkan Nama Lengkap</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="text_abhishek">Abhishek</string>
+    <string name="text_website">AndroidDeft.Com</string>
+</resources>

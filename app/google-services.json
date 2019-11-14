@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900966996038",
+    "firebase_url": "https://syariahproperti-a08b6.firebaseio.com",
+    "project_id": "syariahproperti-a08b6",
+    "storage_bucket": "syariahproperti-a08b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900966996038:android:1bce0cd625d7a3a4f55247",
+        "android_client_info": {
+          "package_name": "com.example.syariah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900966996038-duiiqtsak9o23ueq96aqkb79auaarpi7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.syariah",
+            "certificate_hash": "71644aa3e3e1fb7d31fed8a753c7f477314faa50"
+          }
+        },
+        {
+          "client_id": "900966996038-kran4r91gl1fktcb5oqskvbieea7v6kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIOLsxGfE-0myOHeDNIRrkbX78CfK4ehM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900966996038-kran4r91gl1fktcb5oqskvbieea7v6kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

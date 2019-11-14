@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_propertiku"
+            android:title="Propertiku" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_koins"
+            android:title="Status Finansil" />
+        <item
+            android:id="@+id/nav_tools"
+            android:icon="@drawable/ic_konstruksi"
+            android:title="Penambahan Fitur" />
+    </group>
+
+    <item android:title="Legalitas">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_dokumen"
+                android:title="Dokumen" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_pengembang"
+                android:title="Notaris" />
+        </menu>
+    </item>
+    <item android:title="Pembangunan">
+        <menu>
+            <item
+                android:id="@+id/nav_developer"
+                android:icon="@drawable/ic_developer"
+                android:title="Developer" />
+            <item
+                android:id="@+id/nav_lokasipeta"
+                android:icon="@drawable/ic_lokasipeta"
+                android:title="Lokasi" />
+        </menu>
+</menu>
